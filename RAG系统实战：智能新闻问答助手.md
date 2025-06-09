@@ -12,9 +12,8 @@
 
 3. **生成模型**：基于检索结果生成自然语言回答
 
-   ​
+![RAG_Mermaid](https://github.com/user-attachments/assets/bec934c8-014d-4de5-99ef-4da7ad2c2114)
 
-![deepseek_rmaid_20250609_6cc9d4](C:\Users\12534\Desktop\deepseek_mermaid_20250609_6cc9d4.png)
 
 ### 准备工作
 
